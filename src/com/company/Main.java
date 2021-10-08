@@ -2,7 +2,8 @@ package com.company;
 
 public class Main {
 
-    public static void main() {
-	// write your code hereeoo
+    public static void main(String[] args) {
+        System.out.println("i");
+        System.out.println("b");
     }
 }
